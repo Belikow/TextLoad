@@ -1,0 +1,24 @@
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\text-load\text-load\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\text-load\text-load\obj\x86\Debug\text-load.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\text-load\text-load\obj\x86\Debug\text-load.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\text-load\text-load\bin\Debug\TextLoad.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\text-load\text-load\bin\Debug\TextLoad.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\text-load\text-load\obj\x86\Debug\TextLoad.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\text-load\text-load\obj\x86\Debug\TextLoad.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\text-load\text-load\obj\x86\Debug\TextLoad.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\text-load\text-load\bin\Debug\TextLoad.exe.manifest
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\text-load\text-load\bin\Debug\TextLoad.application
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\text-load\text-load\obj\x86\Debug\TextLoad.exe.manifest
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\text-load\text-load\obj\x86\Debug\TextLoad.application
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\1-й год\text-load\text-load\obj\x86\Debug\TextLoad.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\1-й год\text-load\text-load\obj\x86\Debug\TextLoad.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\1-й год\text-load\text-load\bin\Debug\TextLoad.exe.manifest
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\1-й год\text-load\text-load\bin\Debug\TextLoad.application
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\1-й год\text-load\text-load\bin\Debug\TextLoad.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\1-й год\text-load\text-load\bin\Debug\TextLoad.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\1-й год\text-load\text-load\obj\x86\Debug\text-load.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\1-й год\text-load\text-load\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\1-й год\text-load\text-load\obj\x86\Debug\TextLoad.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\1-й год\text-load\text-load\obj\x86\Debug\text-load.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\1-й год\text-load\text-load\obj\x86\Debug\TextLoad.exe.manifest
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\1-й год\text-load\text-load\obj\x86\Debug\TextLoad.application
